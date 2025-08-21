@@ -133,7 +133,7 @@ int main()
             stat[1] /= 2;
 
             cout << "필살기 발동!" << endl;
-            cout << "현재 MP: " << stat[1] << endl;
+            cout << "현재 MP: " << stat[1] << endl;   ///ddfsdf
 
             break;
         }
